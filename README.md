@@ -1,6 +1,7 @@
 # Disease-Detection
 A project that detects diseases (Covid, Tuberculosis, Pneumonia(bacterial and viral) or else Normal) based on your ches x-ray scan
 
+After successfully extracting the files you may need to follow these steps to run in your computer:
 
 1.In order to run this program(django based), you need to have a virtual environment.
 
